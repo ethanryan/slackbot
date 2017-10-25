@@ -1,1 +1,1 @@
-# slackbot
+Simple chatbot for Slack.
